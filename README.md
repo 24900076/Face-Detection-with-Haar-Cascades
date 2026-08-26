@@ -146,3 +146,6 @@ else:
 <img width="635" height="397" alt="image" src="https://github.com/user-attachments/assets/763ede26-96fb-4b21-8955-aff183617939" />
 <img width="636" height="395" alt="image" src="https://github.com/user-attachments/assets/46bf279d-f1bc-4ae6-ba18-ec0aae18af27" />
 <img width="677" height="437" alt="image" src="https://github.com/user-attachments/assets/cf7169c1-d2ff-44b7-887e-e0341e4dd59f" />
+
+## Result :
+Thus, to write a Python program using OpenCV to perform image manipulations for the given objectives is executed sucessfully.
